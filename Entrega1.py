@@ -1,11 +1,9 @@
 """
     Asignatura: Programación paralela.
     Curso: 2023-2024
-    Alumnos: Jarne Anguita, Miguel
-             Jimenez Poyatos, Pablo
-             Puyol Romera, Maria.
+    Alumno: Jimenez Poyatos, Pablo
     Curso: 4 CC
-    Carrera: Grado en matemáicas.
+    Carrera: Grado en Matemáicas.
     Entrega 1: Busqueda en paralelo.
 """
 
