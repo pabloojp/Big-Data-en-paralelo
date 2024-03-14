@@ -31,3 +31,6 @@ condiciones. En el código se muestran varios ejemplos de posibles condiciones.
 Por último, nótese que en la función main se pueden modicar en función del número de buscadores,
 las condiciones que se quieran imponer, etc. Además, se ha intoducido un fragmento de código por si en
 el directorio utilizado no existiera ninguna carpeta con el nombre adecuado.
+
+Para ejecutarlo, tan solo tiene que descargarse el archivo entrega1.py y en la función main modificar las
+variables que se quiera. Después tan solo hay que cargar el programa.
